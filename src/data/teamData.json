@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Jane Doe",
+      "role": "Lead Designer",
+      "imageUrl": "/images/team1.jpg",
+      "bio": "Passionate about sustainable architecture with 10+ years experience."
+    },
+    {
+      "name": "John Smith",
+      "role": "Project Manager",
+      "imageUrl": "/images/team2.jpg",
+      "bio": "Specializes in community development projects across Africa."
+    },
+    {
+      "name": "Alice Johnson",
+      "role": "Sustainability Expert",
+      "imageUrl": "/images/team3.jpg",
+      "bio": "Focuses on renewable energy solutions for rural communities."
+    }
+  ]
